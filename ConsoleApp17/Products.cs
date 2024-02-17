@@ -28,11 +28,5 @@ namespace ConsoleApp17
             return  price * quantity;
         }
 
-        public override string ToString()
-        {
-            return Name 
-                + ", "
-                + Total.ToString("F2");
-        }
     }
 }
